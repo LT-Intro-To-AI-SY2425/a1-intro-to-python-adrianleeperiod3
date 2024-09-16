@@ -1,4 +1,3 @@
-# Complete your individualized AI problems here
 
 def fizbuzz(input_num):
     if(input_num%3==0):
